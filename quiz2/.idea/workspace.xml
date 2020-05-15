@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4e10ec4-4b91-40ad-bc94-14a2ef3be2fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
+  <component name="ProjectId" id="1b7JZxe8ALM2kt64YByBwLlBxSA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4e10ec4-4b91-40ad-bc94-14a2ef3be2fa" name="Default Changelist" comment="" />
+      <created>1587977257495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587977257495</updated>
+      <workItem from="1587977258893" duration="2346000" />
+      <workItem from="1588171961558" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="145" key="#PHP" timestamp="1587977624186">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="667" y="145" key="#PHP/0.30.1920.1050@0.30.1920.1050" timestamp="1587977624186" />
+    <state x="757" y="369" key="NewPhpClassDialog" timestamp="1587978690582">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="757" y="369" key="NewPhpClassDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587978690582" />
+    <state x="794" y="478" key="NewPhpFileDialog" timestamp="1587979313755">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="794" y="478" key="NewPhpFileDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587979313755" />
+    <state x="461" y="197" key="SettingsEditor" timestamp="1587977616558">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="461" y="197" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1587977616558" />
+    <state x="656" y="379" key="com.intellij.ide.util.TipDialog" timestamp="1588171982908">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="656" y="379" key="com.intellij.ide.util.TipDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1588171982908" />
+  </component>
+</project>
